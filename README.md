@@ -6,7 +6,7 @@ Hi, I'm Khristine, a Cybersecurity, IAM Azure Associate
 
 - [Creating Users in Entra ID](https://github.com/KhristineIAM/user-accounts.git)
 - [Cloud Provisioning – P2 Licensing](https://github.com/KhristineIAM/P2-Licensing-Code.git)
-- [Role Assignments](YOUR_REPOSITORY_LINK)
+- [Role Assignments](https://github.com/KhristineIAM/Role_Assignments.git)
 - [Group Assignments](https://github.com/KhristineIAM/Group_Assignements.git)
 - [Identity Lifecycle](https://github.com/KhristineIAM/Identify_Lifecycle.git)
 - [Audit Logs](https://github.com/KhristineIAM/Audit_Logs.git)
