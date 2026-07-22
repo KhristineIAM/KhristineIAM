@@ -8,7 +8,7 @@ Hi, I'm Khristine, a Cybersecurity, IAM Azure Associate
 - [Cloud Provisioning – P2 Licensing](YOUR_REPOSITORY_LINK)
 - [Role Assignments](YOUR_REPOSITORY_LINK)
 - [Group Assignments](YOUR_REPOSITORY_LINK)
-- [Identity Lifecycle](YOUR_REPOSITORY_LINK)
+- [Identity Lifecycle](https://github.com/KhristineIAM/Identify_Lifecycle.git)
 - [Audit Logs](https://github.com/KhristineIAM/Audit_Logs.git)
 - [Sign-In Logs](https://github.com/KhristineIAM/Sign-In-Logs.git)
 - [Authentication](https://github.com/KhristineIAM/Authentication.git)
