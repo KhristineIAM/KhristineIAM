@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">
+Hi, I'm Khristine, a Cybersecurity, IAM Azure Associate
+</h1>
 
-<!--
-**KhristineIAM/KhristineIAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Microsoft Azure Entra ID
 
-Here are some ideas to get you started:
+- [Creating Users in Entra ID](YOUR_REPOSITORY_LINK)
+- [Cloud Provisioning – P2 Licensing](YOUR_REPOSITORY_LINK)
+- [Role Assignments](YOUR_REPOSITORY_LINK)
+- [Group Assignments](YOUR_REPOSITORY_LINK)
+- [Identity Lifecycle](YOUR_REPOSITORY_LINK)
+- [Audit Logs](YOUR_REPOSITORY_LINK)
+- [Sign-In Logs](YOUR_REPOSITORY_LINK)
+- [Authentication](YOUR_REPOSITORY_LINK)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
