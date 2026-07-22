@@ -9,6 +9,6 @@ Hi, I'm Khristine, a Cybersecurity, IAM Azure Associate
 - [Role Assignments](YOUR_REPOSITORY_LINK)
 - [Group Assignments](YOUR_REPOSITORY_LINK)
 - [Identity Lifecycle](YOUR_REPOSITORY_LINK)
-- [Audit Logs](YOUR_REPOSITORY_LINK)
+- [Audit Logs](https://github.com/KhristineIAM/Audit_Logs.git)
 - [Sign-In Logs](YOUR_REPOSITORY_LINK)
 - [Authentication](https://github.com/KhristineIAM/Authentication.git)
